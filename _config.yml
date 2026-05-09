@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Matthew Rice"
 title_separator          : "-"
 name                     : &name "Matthew Rice"
@@ -23,12 +23,12 @@ repository               : "https://bizarroxela.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/Users/macuser/Downloads/IMG_4434.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Nashville, TN"
-  employer         : "Red Brick University"
+  employer         : "Bellevue University"
   uri              : # URL
   email            : "none@example.org" 
 
