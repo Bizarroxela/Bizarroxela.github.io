@@ -16,30 +16,31 @@ Education
 
 Work experience
 ======
-* March 2026 - Current: Clinical Informatics Specialist
-  * Ascension St. Thomas
-  * Duties include: Writing SQL queries in Snowflake UI to currate patient lists. Performing Exploratory Data Analysis on Data Produced by Community Health Workers. Providing insights via monthly summaries and ad hoc reports.
-  * 
+* March 2026 - Current: Clinical Informatics Specialist / Ascension St. Thomas
+  * Writing SQL queries in Snowflake UI to currate patient lists
+  * Performing Exploratory Data Analysis on Data Produced by Community Health Workers
+  * Providing insights via monthly summaries and ad hoc reports
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Quality Team Lead / EchoPark Nashville 
+  * Developed a fuel management plan based on inbound vehicle data, resulting in monthly savings of over 300 gallons
+  * Conduct weekly quality assurance inspections on 100+ vehicles to ensure visual and mechanical standards
+  * •	Capture high-quality vehicle photos from 30+ angles to meet brand and marketing specifications
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Logistics Associate / Carvana Nashville
+  * Inspect inbound and outbound vehicles for damage or mechanical issues, ensuring quality standards were met
+  * Coordinate vehicle staging for efficient transport to customers and internal facilities
+  * Deliver vehicles from inspection center to retail showroom supporting timely sales and customer satisfaction
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SQL
+* Python
+  * Pyploy
+  * Numpy
+  * Sci-kit
+* Power BI
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
