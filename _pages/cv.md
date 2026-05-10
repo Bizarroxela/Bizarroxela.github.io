@@ -24,7 +24,7 @@ Work experience
 * Quality Team Lead / EchoPark Nashville 
   * Developed a fuel management plan based on inbound vehicle data, resulting in monthly savings of over 300 gallons
   * Conduct weekly quality assurance inspections on 100+ vehicles to ensure visual and mechanical standards
-  * •	Capture high-quality vehicle photos from 30+ angles to meet brand and marketing specifications
+  * Capture high-quality vehicle photos from 30+ angles to meet brand and marketing specifications
 
 * Logistics Associate / Carvana Nashville
   * Inspect inbound and outbound vehicles for damage or mechanical issues, ensuring quality standards were met
