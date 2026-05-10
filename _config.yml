@@ -23,14 +23,14 @@ repository               : "https://bizarroxela.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Users/macuser/Downloads/IMG_4434.jpg"
+  avatar           : ""
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Nashville, TN"
-  employer         : "Bellevue University"
+  employer         : "Ascension St. Thomas"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "m.alexander.rice@gmail.com" 
 
   # Academic websites
   academia         : # URL
