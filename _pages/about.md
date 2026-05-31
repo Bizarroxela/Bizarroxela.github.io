@@ -24,5 +24,16 @@ I am currently serving as the Clinical Informatics Specialist for the Community 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ..
 
